@@ -39,7 +39,7 @@ The Phoenix Project -  Gene Kim, Kevin Behr, George Spafford (short) (dev-ops)
 
 Hackers: Heroes of the Computer Revolution - Steven Levy (history) (hackers) (interesting) (informative)
 
-
+How to Win Friends and Influence People - Dale Carnegie (+1 alex) (people skills) (extremely useful)
 
 ## classics
 
