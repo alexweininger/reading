@@ -44,15 +44,15 @@ How to Win Friends and Influence People - Dale Carnegie (+1 alex) (people skills
 
 ## classics
 
-Frankenstien -	Mary Shelley
-
-
+Frankenstien - Mary Shelley
 
 ---
- 
- # giant list of books
- 
- ## design
+
+## giant list of books
+
+this list contains any and all types of books that I think are interesting to read
+
+## design
 
 The Design of Everyday Things - Don Norman (design)
 
@@ -63,5 +63,3 @@ The Visual Display of Quantatative Information - Edward R Tufte (free) (design)
 Zen and the Art of Motorcycle Maintenance: An Inquiry into Values - Robert M Pirsig (philosophy)
 
 The Art of War - Sun Tzu (philosphy) (free) (short)
- 
- 
