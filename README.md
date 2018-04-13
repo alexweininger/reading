@@ -44,7 +44,7 @@ How to Win Friends and Influence People - Dale Carnegie (+1 alex) (people skills
 
 ## classics
 
-Frankenstien - Mary Shelley
+Frankenstien - Mary Shelley (free) [pdf](books/Frankenstien-MaryShelley.pdf)
 
 ---
 
@@ -62,4 +62,8 @@ The Visual Display of Quantatative Information - Edward R Tufte (free) (design)
 
 Zen and the Art of Motorcycle Maintenance: An Inquiry into Values - Robert M Pirsig (philosophy)
 
-The Art of War - Sun Tzu (philosphy) (free) (short)
+The Art of War - Sun Tzu (philosphy) (free) (short) [pdf](books/TheArtOfWar-SunTzu.pdf)
+
+## programming languages
+
+Eloquent Javascript - (learn) (javascript) (examples) (practice problems) [website/ebook](eloquentjavascript.com) [pdf](books/EloquentJavascript.pdf)
