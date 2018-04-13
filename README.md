@@ -13,6 +13,8 @@ An Enquiry Concerning Human Understanding - David Hume (hard) (philosphy)
 
 Nineteen Eighty-Four - George Orwell (philosophy) (medium difficulty) (popular)
 
+Things Fall Apart - Chinua Achebe (english classes) (popular) (hard)
+
 ## popular/leisure
 
 Ready Player One - Ernest Cline (popular)
@@ -20,6 +22,8 @@ Ready Player One - Ernest Cline (popular)
 Surely You're Joking, Mr. Feynman! - Richard P. Feynman (biography) (science) (good normal read)
 
 All the Light We Cannot See - Anthony Doerr (popular) (historical fiction)
+
+Maus - Art Spiegelman (short) (graphic novel) (historical) (I love this book, would read again)
 
 ## programming
 
@@ -37,9 +41,11 @@ Hackers: Heroes of the Computer Revolution - Steven Levy (history) (hackers) (in
 
 
 
-## classical literature
+## classics
 
 Frankenstien -	Mary Shelley
+
+
 
 ---
  
