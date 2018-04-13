@@ -1,6 +1,7 @@
 # summer reading list 2018
 
 goals for the summer:
+
 1. difficult to read
 2. popular/leisure
 3. programming
@@ -9,7 +10,7 @@ goals for the summer:
 
 ## difficult to read
 
-An Enquiry Concerning Human Understanding - David Hume (hard) (philosphy)
+An Enquiry Concerning Human Understanding - David Hume (hard) (philosphy) [pdf](/books/EnquiryConcerningHumanUnderstanding-DavidHume.pdf)
 
 Nineteen Eighty-Four - George Orwell (philosophy) (medium difficulty) (popular)
 
