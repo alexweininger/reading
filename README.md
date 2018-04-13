@@ -11,11 +11,15 @@ goals for the summer:
 
 An Enquiry Concerning Human Understanding - David Hume (hard) (philosphy)
 
+Nineteen Eighty-Four - George Orwell (philosophy) (medium difficulty) (popular)
+
 ## popular/leisure
 
 Ready Player One - Ernest Cline (popular)
 
 Surely You're Joking, Mr. Feynman! - Richard P. Feynman (biography) (science) (good normal read)
+
+All the Light We Cannot See - Anthony Doerr (popular) (historical fiction)
 
 ## programming
 
@@ -26,6 +30,11 @@ The Algorithm Design Manual - Steven S Skiena (free) (programming)
 Why Functional Programming Matters - John Hughes (free) (short) (programming)
 
 ## world of programming
+
+The Phoenix Project -  Gene Kim, Kevin Behr, George Spafford (short) (dev-ops)
+
+Hackers: Heroes of the Computer Revolution - Steven Levy (history) (hackers) (interesting) (informative)
+
 
 
 ## classical literature
