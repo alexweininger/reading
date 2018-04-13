@@ -12,7 +12,7 @@ goals for the summer:
 
 An Enquiry Concerning Human Understanding - David Hume (hard) (philosphy) [pdf](/books/EnquiryConcerningHumanUnderstanding-DavidHume.pdf)
 
-Nineteen Eighty-Four - George Orwell (philosophy) (medium difficulty) (popular)
+Nineteen Eighty-Four - George Orwell (philosophy) (medium difficulty) (popular) [pdf](1984-GeorgeOrwell.pdf)
 
 Things Fall Apart - Chinua Achebe (english classes) (popular) (hard) [pdf](ThingsFallApart-AchebeChinua.pdf)
 
@@ -47,6 +47,8 @@ How to Win Friends and Influence People - Dale Carnegie (+1 alex) (people skills
 Frankenstien - Mary Shelley (free) [pdf](books/Frankenstien-MaryShelley.pdf)
 
 The Great Gatsby - F. Scott Fitzgerald [pdf](books/TheGreatGatsby-F.ScottFitzgerald.pdf)
+
+Flowers For Algernon - Daniel Keyes
 
 ---
 
