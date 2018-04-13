@@ -46,6 +46,8 @@ How to Win Friends and Influence People - Dale Carnegie (+1 alex) (people skills
 
 Frankenstien - Mary Shelley (free) [pdf](books/Frankenstien-MaryShelley.pdf)
 
+The Great Gatsby - F. Scott Fitzgerald [pdf](books/TheGreatGatsby-F.ScottFitzgerald.pdf)
+
 ---
 
 ## giant list of books
