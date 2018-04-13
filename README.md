@@ -14,7 +14,7 @@ An Enquiry Concerning Human Understanding - David Hume (hard) (philosphy) [pdf](
 
 Nineteen Eighty-Four - George Orwell (philosophy) (medium difficulty) (popular)
 
-Things Fall Apart - Chinua Achebe (english classes) (popular) (hard)
+Things Fall Apart - Chinua Achebe (english classes) (popular) (hard) [pdf](ThingsFallApart-AchebeChinua.pdf)
 
 ## popular/leisure
 
@@ -40,7 +40,7 @@ The Phoenix Project -  Gene Kim, Kevin Behr, George Spafford (short) (dev-ops)
 
 Hackers: Heroes of the Computer Revolution - Steven Levy (history) (hackers) (interesting) (informative)
 
-How to Win Friends and Influence People - Dale Carnegie (+1 alex) (people skills) (extremely useful)
+How to Win Friends and Influence People - Dale Carnegie (+1 alex) (people skills) (extremely useful) [pdf](books/HowToWinFriendsAndInfluencePeople.pdf)
 
 ## classics
 
