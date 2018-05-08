@@ -16,6 +16,8 @@ Nineteen Eighty-Four - George Orwell (philosophy) (medium difficulty) (popular) 
 
 Things Fall Apart - Chinua Achebe (english classes) (popular) (hard) [pdf](ThingsFallApart-AchebeChinua.pdf)
 
+The Stranger
+
 ## popular/leisure
 
 Ready Player One - Ernest Cline (popular)
@@ -67,6 +69,8 @@ The Visual Display of Quantatative Information - Edward R Tufte (free) (design)
 Zen and the Art of Motorcycle Maintenance: An Inquiry into Values - Robert M Pirsig (philosophy)
 
 The Art of War - Sun Tzu (philosphy) (free) (short) [pdf](books/TheArtOfWar-SunTzu.pdf)
+
+The War of Art
 
 ## programming languages
 
