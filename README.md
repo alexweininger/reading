@@ -12,11 +12,11 @@ goals for the summer:
 
 An Enquiry Concerning Human Understanding - David Hume (hard) (philosphy) [pdf](/books/EnquiryConcerningHumanUnderstanding-DavidHume.pdf)
 
-Nineteen Eighty-Four - George Orwell (philosophy) (medium difficulty) (popular) [pdf](1984-GeorgeOrwell.pdf)
+Nineteen Eighty-Four - George Orwell (philosophy) (medium difficulty) (popular) [pdf](/books/1984-GeorgeOrwell.pdf)
 
-Things Fall Apart - Chinua Achebe (english classes) (popular) (hard) [pdf](ThingsFallApart-AchebeChinua.pdf)
+Things Fall Apart - Chinua Achebe (english classes) (popular) (hard) [pdf](/books/ThingsFallApart-AchebeChinua.pdf)
 
-The Stranger
+The Stranger - Albert Camus [pdf](/books/TheStranger-AlbertCamus.pdf)
 
 ## popular/leisure
 
